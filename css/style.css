@@ -1,0 +1,145 @@
+body{
+  color: #5f5f5f;
+  font-family: Verdana;
+  margin: 0;
+}
+
+nav {
+  background-color: #f0f8ff;
+}
+
+#navbarNav {
+  border-color: rgba(0,0,0,0);
+}
+
+h1{
+  color: #5f5f5f;
+}
+
+h2 {
+  color: #203744;
+}
+
+h3{
+  color: #203744;
+}
+
+h5{
+  color: #203744;
+}
+
+p {
+  color: #292929;
+}
+
+
+#about, #contact{
+  background-color: #CCCEBA;
+}
+
+#skills, #hobby{
+  background-color: #CAC7D8;
+}
+
+#portfolio{
+  background-color: #E8DFC4;
+}
+
+.mahiim{
+  border: 2px solid #fff;
+  box-shadow: 1px 1px 4px #fff;
+}
+
+
+.hobbyicon {
+  display: inline-block;
+  height: 150px;
+  margin-right: 15px;
+}
+
+.hobbyicon img {
+  height: 100%;
+}
+
+.background{
+  position: relative;
+}
+
+.name{
+  font-size: 55px;
+  color: #203744;
+  position: absolute;
+  top: 30px;
+  right: 60px;
+}
+
+.sab{
+  font-size: 20px;
+  color: #5f5f5f;
+  position: absolute;
+  top: 100px;
+  right: 40px;
+}
+
+.contacts a{
+  font-size: 30px;
+  background-color: white;
+  opacity: 0.7;
+  color: #203744;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+.contacts a:hover{
+  opacity:  1;
+  text-decoration: none;
+  color: #203744;
+}
+
+.contacts p{
+  color: #2f4f4f;
+}
+
+.footer-main{
+  background-color: #f0f8ff;
+}
+
+.footer-main p{
+  color: #5f5f5f;
+  margin-bottom: 0;
+}
+
+.twitter{
+  opacity: 0.7
+}
+
+.instagram{
+  opacity: 0.7;
+}
+
+.github{
+  opacity: 0.7;
+}
+
+/*index2~*/
+.photos img{
+  border-radius: 20px;
+  padding: 10px;
+}
+
+.text-title{
+  background-color: #ffffef;
+}
+
+.main{
+  background-color: #fffff9;
+}
+
+.pic{
+  border: 2px solid #ebebeb;
+  box-shadow: 1px 1px 4px #c1c1c1;
+}
+
+.yohaku{
+  margin-bottom: 30px; 
+}
